@@ -1,0 +1,25 @@
+#Hololive {
+
+  font-family: ChicagoFLF, sans-serif;
+  src: url(/css/ChicagoFLFRegular.ttf);
+  color: black;
+  font-size: 20;
+  bottom: 1;
+  float: right;
+  right: 0;
+  bottom: 0;
+
+}
+
+#switches {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+}
+
+#arrow {
+  top: 30%;
+  position: absolute;
+}
+
