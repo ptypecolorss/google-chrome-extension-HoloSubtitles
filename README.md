@@ -10,7 +10,7 @@ For install Chrome Extension from my repository:
 
 🦐 Tap "<>Code" and select "Dowload ZIP"
 
-🦋 Unzip google-chrome-extension-Holosubtitles-main.zip
+🦋 Unzip google-chrome-extension-HoloSubtitles-main.zip
 
 🐑 Open the Google Chrome, paste in search bar "chrome://extensions/", enable "developer mode" in the upper right corner
 
