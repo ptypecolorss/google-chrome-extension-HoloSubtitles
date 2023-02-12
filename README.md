@@ -15,6 +15,6 @@ For install Chrome Extension from my repository:
 
 Hooray, you've installed my extension!
 
-If you "don't trust" my servers, you can go to the folder HoloServ! after unzipping archive and read instruction inside this folder
+If you don't "trust" my servers, you can go to the HoloServ! after unpacking the archive and read the instructions inside this folder
 
 Enjoy!
