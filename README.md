@@ -1,5 +1,5 @@
 # Hello shrimp's, fandead's, watamate's, sukonbu's etc.!
-![Иллюстрация к проекту](hg/pekora(cover).gif)
+![Иллюстрация к проекту](HoloSubs!/hg/pekora(cover).gif)
 
 It's my Python(+HTML+CSS+JS) project for automatically generate subtitales on the Hololive broadcasts on YT!
 
@@ -14,3 +14,7 @@ For install Chrome Extension from my repository:
 🦊 Tap "Donwload unpacked extension" and select "HoloSubs!" folder from unzipped archive
 
 Hooray, you've installed my extension!
+
+If you "don't trust" my servers, you can go to the folder HoloServ! after unzipping archive and read instruction inside this folder
+
+Enjoy!
