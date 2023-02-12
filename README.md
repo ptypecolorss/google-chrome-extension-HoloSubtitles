@@ -21,3 +21,12 @@ Hooray, you've installed my extension!
 If you don't "trust" my servers, you can go to the HoloServ! after unpacking the archive and read the instructions inside this folder
 
 Enjoy!
+
+
+Try it on repl.it
+
+HoloSubs!
+https://replit.com/@ptypecodesystem/HoloSubs
+
+HoloServ!
+https://replit.com/@ptypecodesystem/HoloServ
