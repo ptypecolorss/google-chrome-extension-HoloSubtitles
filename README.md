@@ -1,7 +1,6 @@
 # Hello shrimp's, fandead's, watamate's, sukonbu's etc.!
 
-❗❗❗ The extension is under development and is not working at the moment, but I'm doing my best so that you can enjoy it as soon as possible
-The extension is under development and is not working at the moment, but I'm doing my best so that you can enjoy it as soon as possible❗❗❗
+❗❗❗ The extension is under development and is not working at the moment, but I'm doing my best so that you can enjoy it as soon as possible❗❗❗
 
 ![Иллюстрация к проекту](HoloSubs!/hg/pekora(cover).gif)
 
