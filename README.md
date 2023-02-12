@@ -5,7 +5,7 @@ It's my Python(+HTML+CSS+JS) project for automatically generate subtitales on th
 
 For install Chrome Extension from my repository:
 
-🦐 Tap "<>Code" and select "Dowload ZIP"
+🦐 Go to folder "HoloSubs! and tap "<>Code" and select "Dowload ZIP"
 
 🦋 Unzip google-chrome-extension-Holosubtitles-main.zip
 
